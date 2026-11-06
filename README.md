@@ -1,5 +1,7 @@
 # GainNet: sentence-level neural gain from fMRI
-weights： https://huggingface.co/CopTain/neuroGainnet
+Weights： https://huggingface.co/CopTain/neuroGainnet
+
+
 
 A public release of **2,700 small networks** that map an English sentence to a scalar
 **neural gain** — an estimate of how strongly that sentence drives the response of a
@@ -139,6 +141,8 @@ See `CITATION.cff`. If you use the weights, please cite both this release and th
 source dataset.
 
 ---
+We trianed our data on Ming Zhou, Zhengxin Gong, Yuxuan Dai, Yushan Wen, Youyi Liu, and Zonglei Zhen (2026). A large-scale fMRI dataset for human action recognition. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds004488.v2.0.1
+Thanks for their public data conrtibution
 
 ## 中文摘要
 
