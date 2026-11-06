@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these weights, please cite this release and the source dataset."
+title: "GainNet: sentence-level neural gain from fMRI"
+version: 0.1.0
+date-released: 2026-01-01
+license: CC-BY-4.0
+type: software
+authors:
+  - family-names: "[to be completed]"
+    given-names: "[to be completed]"
+repository-code: "https://github.com/<org>/gainnet"
+url: "https://huggingface.co/<org>/gainnet"
+keywords:
+  - fMRI
+  - naturalistic neuroimaging
+  - sentence embeddings
+  - multimodal retrieval
+  - salience
+abstract: >
+  2,700 per-region, per-participant networks mapping a sentence embedding to a
+  scalar neural gain, trained on fMRI responses to 2-second video clips described
+  by single sentences. Includes the participant-averaged gain table for 66,270
+  sentences and 90 AAL regions.
