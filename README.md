@@ -1,5 +1,5 @@
 # GainNet: sentence-level neural gain from fMRI
-
+weights： https://huggingface.co/CopTain/neuroGainnet
 A public release of **2,700 small networks** that map an English sentence to a scalar
 **neural gain** — an estimate of how strongly that sentence drives the response of a
 given brain region, measured with fMRI in 30 participants viewing 2-second video clips.
